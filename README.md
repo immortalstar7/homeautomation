@@ -68,8 +68,5 @@ You can use just about any SVG home graphic; the important thing to remember is 
 </pre>
 
 Reference:
-The inspiration is taken from Home Automation by Mary Shaw:
+The inspiration for the project is taken from Home Automation by Mary Shaw:
 https://github.com/marybeshaw/Just-Another-Automated-Home
-
-
-# myhomeautomation
