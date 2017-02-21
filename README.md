@@ -13,7 +13,8 @@
 The layout for home is a typical home layout which is converted in to SVG for providing the visual lighting animations.</p>
 
 <h2>Setting up the Web Page</h2>
-<p>I am using MAMP Server for for sending and receiving request</p>
+<p>I am using MAMP Server for for sending and receiving request.</p>
+<p>If you don't want to make server call than you can even directly access application via index.html</p>
 <p>
 The web page markup isn’t hugely involved.  It has just a few necessary pieces.
 </p>
